@@ -1,5 +1,8 @@
 const a = 5;
 const b = 10;
 
-const sum = a + b;
-console.log(sum);
+const sumssssss = a + b;
+
+let car = 'foo';
+car = 'boys';
+console.log(sumssssss);
